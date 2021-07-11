@@ -4,4 +4,6 @@ in B2
 M: Master Changes
 B1: rebase accquire
 M: After rebase to b1. changes.
+B1: [0] 
 in origin/ob1
+
